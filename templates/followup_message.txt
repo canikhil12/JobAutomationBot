@@ -1,0 +1,7 @@
+Hi {name},
+
+Just following up on my previous note regarding the {job_title} role at {company}.
+If there's someone else on your team who handles analytics hiring, I’d be grateful if you could point me to them.
+
+Thank you,
+Akhil

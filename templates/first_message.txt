@@ -1,0 +1,9 @@
+Hi {name},
+
+I came across your profile while exploring opportunities for a {job_title} role at {company}.
+I’ve been working on SQL, Python, ETL, and dashboards in banking and healthcare (TD Bank, Availity).
+
+If you're hiring for a Data Analyst / Reporting Analyst role, I’d really appreciate a quick review of my background.
+
+Thanks,
+Akhil
